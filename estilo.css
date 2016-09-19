@@ -1,0 +1,19 @@
+#titulo {
+	border: 1px solid red;
+	background-color: red;
+	padding: 40px;
+	margin: 10px;
+	display: inline-block;
+}
+
+#titulo2 {
+	border: 1px solid blue;
+	background-color: blue;
+	padding: 40px;
+	margin: 10px;
+	display: inline-block;
+}
+
+.hola{
+	background-color: blue !important;
+}

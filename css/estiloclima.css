@@ -1,0 +1,93 @@
+#user input{
+	margin: 5px;
+}
+
+#pw input {
+	margin: 5px;
+}
+
+#boton {
+	margin-left: 164px;
+}
+
+
+.titulo{
+	text-align: center;
+}
+
+#titulo{
+	margin-top: 0px;
+}
+
+#info{
+	padding: 0.5em;
+	padding-right: 1em;
+	text-align: right;
+	font-size: 1.3em;
+}
+
+#info2{
+	padding: 0.5em;
+	padding-right: 1em;
+	text-align: left;
+	font-size: 1.7em;
+}
+
+#id input {
+	margin: 5px;
+}
+
+#buscar input {
+	margin: 5px;
+}
+
+#busquedas{
+	display: inline-block;
+	float: right;
+	padding: 0.5em;
+	border: none;
+	outline: none;
+	background-color: transparent;
+}
+
+#resultados {
+	display: inline-block;
+	text-align: left;
+	padding: 0.5em;
+	border: none;
+	outline: none;
+	background-color: transparent;
+}
+
+textarea{
+	resize: none;
+}
+
+.video-container {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+  position: absolute;
+}
+
+.video-container video {
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+.container{
+	  position: relative;
+	  z-index: 5;
+	  height: 100%;
+}
+
+.dancing-script {
+  font-family: "Dancing Script" , cursive;
+}
